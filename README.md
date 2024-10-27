@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhanuprakash</h1>
-<h3 align="center">A Undergraduate Computer Science Engineering Student.</h3>
+<h3 align="center">An Undergraduate Computer Science Engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdotgit&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdotgit" /> </p>
 
-- 🔭 I’m currently working on **Melody Mend**
+- 🔭 I’m currently working on **Melody Mend(using django)**
 
 - 🌱 I’m currently learning **Django, C++, Python, Basic Data Structures and Algorithms**
 
 - Completed the project [Placement Management System](https://github.com/prakashdotgit/Placement_Management_)
 
-- 👨‍💻 All of my projects are available at [Here itself in the Github](Here itself in the Github)
+- 👨‍💻 All of my projects are available at [Here itself in the Github]
 
 - 📫 How to reach me **prakash347b@gmail.com**
 
